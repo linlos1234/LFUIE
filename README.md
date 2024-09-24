@@ -13,7 +13,7 @@ This repository is the official PyTorch implementation of Enhancing Underwater I
 </p>
 
 ## Dataset
-We build the first 4-D LF-based underwater imaging dataset with diverse degradations and rich scenes, namely LFUB. We use \textit{Blender}, an open-source 3-D modeling and rendering software, to simulate the effects of light propagation in a water medium to achieve as realistic underwater 4-D LF images as possible. This section outlines the construction pipeline of our dataset, including planning scene templates for building simulated environments, establishing degradation conditions that mimic real-world deterioration, and using camera arrays to render LF data. This approach not only serves our current project but also has potential applications in other LF tasks.
+We build the first 4-D LF-based underwater imaging dataset with diverse degradations and rich scenes, namely LFUB. We use Blender, an open-source 3-D modeling and rendering software, to simulate the effects of light propagation in a water medium to achieve as realistic underwater 4-D LF images as possible. This section outlines the construction pipeline of our dataset, including planning scene templates for building simulated environments, establishing degradation conditions that mimic real-world deterioration, and using camera arrays to render LF data. This approach not only serves our current project but also has potential applications in other LF tasks.
 ><p align="center">
   <img width="800" src="./figs/sample-images.png">
 </p>
