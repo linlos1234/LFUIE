@@ -20,5 +20,4 @@ We build the first 4-D LF-based underwater imaging dataset with diverse degradat
 </p>
 Please download the dataset via the following 
 
-[BaiduYunpan](https://pan.baidu.com/s/1cor4qz7D0Tshp7bynfn24w).
-(pwd=lfy8)
+[BaiduYunpan](https://pan.baidu.com/s/1cor4qz7D0Tshp7bynfn24w). (pwd=lfy8)
